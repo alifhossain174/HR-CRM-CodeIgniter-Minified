@@ -1,0 +1,25 @@
+EP Net
+---------
+
+Server Static IP Config's
+IP: 103.103.239.5
+Subnet: 255.255.255.252
+gateway: 103.108.91.253
+
+Mikrotik Servers
+User: hvlog         Pass: abcd1234      IP- 103.103.239.246         Identity-Mikrotik hv
+User: tnlog          Pass: abcd1234      IP- 103.103.239.66           Identity- MikroTik-Badamtoli
+User: skdlog       Pass: abcd1234      IP- 103.103.239.70           Identity-Sitakund
+User: ptlog          Pass:abcd1234        IP- 103.111.34.1               Identity-pahartoli
+User: noclog       Pass: abcd1234       IP- 103.103.239.1         Identity-Akkhanpop
+
+SSH
+SSH Login :    ssh oem@103.103.239.5
+SSH Password : *ep654321@
+
+ WEB
+Url :  103.103.239.5
+ Login : epnet@softifybd.com
+ Password :    *Ep654321@
+
+
